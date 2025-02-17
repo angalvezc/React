@@ -7,7 +7,7 @@ import CardComponent from './CardComponent.jsx'
 
 
 
-export default function App() {
+export default function Router() {
 
   return (
     <Router>
@@ -33,4 +33,3 @@ export default function App() {
     </Router>
   )
 }
-
